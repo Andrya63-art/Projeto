@@ -2,7 +2,7 @@
 
 Este projeto foi reorganizado para publicação no GitHub, com estrutura mais limpa, nomes de arquivos padronizados e navegação funcionando entre as páginas.
 
-## ferramentas utilizadas
+## Ferramentas utilizadas
 - HTML
 - CSS
 
