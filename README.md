@@ -1,12 +1,12 @@
-# Projeto RPG - HTML e CSS
+## 💼 Projeto RPG - HTML e CSS
 
 Este projeto foi reorganizado para publicação no GitHub, com estrutura mais limpa, nomes de arquivos padronizados e navegação funcionando entre as páginas.
 
-## Ferramentas utilizadas
+## 🛠️ Tecnologias
 - HTML
 - CSS
 
-## Estrutura do projeto
+## ⚙️ Estrutura do projeto
 ```bash
 projeto-rpg-html-css/
 ├── index.html
@@ -22,7 +22,7 @@ projeto-rpg-html-css/
 └── README.md
 ```
 
-## O que foi organizado
+# 📌 O que foi organizado
 - Renomeação dos arquivos HTML e CSS
 - Ajuste dos links de navegação
 - Separação dos estilos na pasta `css`
@@ -30,7 +30,7 @@ projeto-rpg-html-css/
 - Inclusão de uma página `pesquisa.html` para evitar link quebrado
 - Inclusão de imagens ilustrativas temporárias para facilitar a visualização local
 
-## Observação
+## 🎯 Objetivo
 As imagens atuais são ilustrativas, criadas apenas para deixar o projeto completo e visualmente organizado no GitHub. Se você tiver as imagens originais, pode substituir os arquivos dentro da pasta `img`.
 
 
